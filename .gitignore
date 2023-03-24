@@ -1,0 +1,10 @@
+console-output.txt
+my-first-ec2.pem
+CLI-Output.txt
+CLI_Output.txt
+console-output.txt
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
